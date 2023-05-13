@@ -117,3 +117,4 @@ do
         echo "Failed to deploy to subscription $sub_id. Check the error message above."
     fi
 done
+# end of script
